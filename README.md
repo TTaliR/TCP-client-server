@@ -2,14 +2,14 @@
 
 This project implements a TCP client-server architecture using C sockets. The client connects to the server, sends messages, and receives server responses in a blocking (synchronous) manner. This exercise demonstrates core concepts of socket programming in C.
 
-## 📂 Files
+## Files
 
 - `TCP_Client.c` – Implements the client-side application
 - `TCP_BlockingServer.c` – Implements a blocking TCP server
 - `Sockets.txt` – Project instructions and notes
 - `EX2_315489856_206540007.docx` – Project documentation
 
-## 🚀 How to Compile and Run
+## How to Compile and Run
 
 ### Server
 
@@ -31,18 +31,18 @@ gcc TCP_Client.c -o client
 - Blocking communication model
 - Message echo and basic handling
 
-## 📄 Requirements
+## Requirements
 
 - GCC compiler
 - Linux/Unix-based OS (for sockets API compatibility)
 - Terminal access
 
-## 📘 Notes
+## Notes
 
 This project was completed as part of a university assignment on network programming.
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational use only.
